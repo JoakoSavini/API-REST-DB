@@ -1,0 +1,31 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Sequelize / DB
+*.sqlite
+*.db
+*.sqlite3
+
+# Env
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
